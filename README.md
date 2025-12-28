@@ -688,14 +688,20 @@ azure-netflix-recommendation/
 
 ## 📝 Progress Log
 
-### Week 5 (Jan 13-19, 2025):
-- ✅ Day 27 (Jan 13): Azure setup + ADF pipeline + Data Lake + Synapse
-- ✅ Day 28 (Jan 14): Databricks + PySpark basics + Delta Lake intro
-- ✅ Day 29 (Jan 15): PySpark MLlib ALS + optimization + advanced features
-- ✅ Day 30 (Jan 16): Azure ML + NCF training + MLflow tracking
-- ✅ Day 31 (Jan 17): Deployment + API + A/B testing + Power BI
-- ✅ Day 32 (Jan 18): CI/CD + monitoring + docs
-- ✅ Day 33 (Jan 19): DEPLOY + polish + video demo
+### Week 5 (Jan 20-26, 2026):
+**Note**: Jan 16-19 = Personal Days OFF 💆‍♀️ | Jan 19 = Boyfriend's Birthday 🎂
+
+- 🏖️ **Jan 16-18**: PERSONAL DAYS (no work, self-care, rest)
+- 🎂 **Jan 19 Sun**: BOYFRIEND'S BIRTHDAY! (day off to celebrate)
+- ⬜ Day 25 (Jan 20 Mon): Finish Projects 3 & 4 (see other projects) | 10h
+- ⬜ Day 26 (Jan 21 Tue): Deploy Projects 3 & 4 + Blog #2 | 10h
+- ⬜ Day 27 (Jan 22 Wed): Azure setup + ADF pipeline + PySpark Databricks intro | 10h
+- ⬜ Day 28 (Jan 23 Thu): PySpark optimization + Delta Lake + Azure ML | 10h
+- ⬜ Day 29 (Jan 24 Fri): Azure ML deployment + real-time API + Power BI | 10h
+- ⬜ Day 30 (Jan 25 Sat): Portfolio website + all 5 projects showcase | 10h
+- ⬜ Day 31 (Jan 26 Sun): GitHub optimize + Blog #3 + DEPLOY PROJECT 5! | 10h
+
+**Total**: 70 hours | **PROJECT 5 DEPLOYED! Blog #3 published!**
 
 ---
 
@@ -724,7 +730,7 @@ azure-netflix-recommendation/
 MIT
 
 ## 👤 Author
-Built during 34-day intensive ML/AI job preparation (Dec 2025 - Jan 2026)
+Built during 36-day realistic ML/AI job preparation with life balance (Dec 2025 - Jan 2026)
 
 **Connect:** [LinkedIn](#) | [GitHub](#) | [Blog](#)
 
